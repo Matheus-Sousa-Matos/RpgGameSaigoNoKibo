@@ -1,0 +1,18 @@
+______________________________________________________________________________________
+Archer
+______________________________________________________________________________________
+Biography: "Nothing short of perfect precision."
+
+- About: Having spent a long time training with bow and arrow, he eventually acquired
+considerable skills in archery combat.
+
+- Start with 12 health (+ Constitution mod) and gain 3 HP (+ Constitution mod)
+by next level.
+
+- Weapons: Bow and arrow, Beasts.
+
+- Skills: 2 + mod. Agility.
+
+- Debuffs: For. (- 2).
+
+______________________________________________________________________________________

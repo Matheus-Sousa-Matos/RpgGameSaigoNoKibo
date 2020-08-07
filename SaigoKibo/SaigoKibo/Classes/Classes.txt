@@ -1,0 +1,28 @@
+__________________________________________
+	Third Division Classes
+__________________________________________
+
+- Warrior
+- Archer
+- Mage
+- Thief
+- Farmer
+__________________________________________
+	 Second Division Classes 
+__________________________________________
+
+- Paladin
+- Berserk
+- Priest
+- Druida
+- Merchant
+__________________________________________
+	First Division Classes
+__________________________________________
+
+- Necromancer
+- Assasin
+- Guardian
+- Dark Knight
+- Dragon
+__________________________________________

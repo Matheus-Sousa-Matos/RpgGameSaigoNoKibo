@@ -1,0 +1,23 @@
+______________________________________________________________________________________
+Thief
+______________________________________________________________________________________
+- Biography: “I am the embodiment of agility and mystery.”
+
+- About: Thiefs are skilled and can focus on developing a
+huge variety of skills. Although not equivalent to members of other
+When it comes to combat, a Thief is able to deliver precise blows and
+inflict huge damage on your opponents by performing a sneak attack.
+They have a sixth sense to avoid danger.
+As they master the art of secrecy, evasion and sneak attacks, experienced Thiefs
+develop almost mystical powers.
+
+- Weapons: Daggers.
+
+- Start with 12 health (+ Constitution mod) and gain 3 HP
+(+ mod. Constitution) by next level.
+
+- Skills: 2 + mod. Agility
+
+- Debuffs: For. (- 2).
+
+______________________________________________________________________________________

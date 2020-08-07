@@ -1,0 +1,10 @@
+   _____ _____ __    _____ _____    _____ _____    _____ _____ _____    _____ _____ _____ _____ 
+  | __  |  |  |  |  |   __|   __|  |     |   __|  |_   _|  |  |   __|  |   __|  _  |     |   __|
+  |    -|  |  |  |__|   __|__   |  |  |  |   __|    | | |     |   __|  |  |  |     | | | |   __|
+  |__|__|_____|_____|_____|_____|  |_____|__|       |_| |__|__|_____|  |_____|__|__|_|_|_|_____|
+                                                                                                
+
+-  EACH CLASS OF THE GAME HAS ITS ATTRIBUTES
+-  EACH ATTRIBUTE INFLUENCES MORE REWARDS / DAMAGE / DEFENSE / MONEY / POTIONS.
+-  YOUR CHOICES INFLUENCE THE GAME.
+-  AFTER EACH OVERCOME CHAPTER YOU WILL BE RIGHT TO A CHEPOINT.

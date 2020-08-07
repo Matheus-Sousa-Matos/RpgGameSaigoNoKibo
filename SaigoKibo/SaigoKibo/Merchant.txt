@@ -1,0 +1,17 @@
+______________________________________________________________________________________
+Merchant
+______________________________________________________________________________________
+- Biography: "Nothing to the world that is not negotiable".
+
+- About: Charismatic figure that negotiates better than any other class.
+
+- Weapons: Short Sword and Light Shield.
+
+- Start with 8 hit points (+ Constitution mod) and gain 2 HP (+ Constitution mod)
+by next level.
+
+- Skills: 3 + mod. Charisma, 1 + mod Intelligence.
+
+- Debuffs: For. (- 2), Agi (-2).
+
+______________________________________________________________________________________

@@ -1,0 +1,18 @@
+______________________________________________________________________________________
+Assasin
+______________________________________________________________________________________
+- Biography: "Although never seen, I enjoyed the end of so many life forms that
+crossed my path ".
+
+- About: A silent and accurate killer, has accurate and fatal blows.
+
+- Weapons: Daggers.
+
+- Start with 10 hit points (+ Constitution mod) and gain 3 HP (+ Constitution mod)
+by next level.
+
+- Skills: 5 + mod. Agility
+
+- Debuffs: For. (- 2), Car (-2).
+
+______________________________________________________________________________________

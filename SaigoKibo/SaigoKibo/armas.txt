@@ -1,0 +1,25 @@
+Fist
+0
+1
+0
+0
+Big Stick
+1
+1
+1
+0.5
+Old Sword
+2
+15
+1
+1.5
+Di Sales Axe
+3
+2
+2
+1.0
+Olem Ivel Shield
+4
+1
+3
+1.5

@@ -1,0 +1,17 @@
+______________________________________________________________________________________
+Druid
+______________________________________________________________________________________
+- Biography: "Nature also shows its claws".
+
+- About: The druid is a priest devoted to protecting nature.
+
+- Weapons: Long Staff.
+
+- Start with 8 hit points (+ Constitution mod) and gain 2 HP (+ Constitution mod)
+by next level.
+
+- Skills: 1 + mod .Intelligence, Agility.
+
+- Debuffs: For. (- 2), Car (-1).
+
+______________________________________________________________________________________

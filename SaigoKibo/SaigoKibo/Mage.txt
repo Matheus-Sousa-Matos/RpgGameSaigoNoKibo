@@ -1,0 +1,22 @@
+______________________________________________________________________________________
+Mage
+______________________________________________________________________________________
+- Biography: "I am the source of wisdom and power. I can do anything a gun can't
+does."
+
+- About: Magicians have the power to utilize the powers of nature in general.
+They can also cause minor illusions to their minor opponents.
+Its greatest power is to cast White magic as strong beams of light and
+healing powers.
+
+- Weapons: Staffs or Rods.
+
+- Start with 8 hit points (+ Constitution mod) and gain 2 HP (+ Constitution mod)
+by next level.
+
+- Skills: 2 + mod. Intelligence.
+
+- Debuffs: For. (- 1), Agi. (- 1).
+
+
+______________________________________________________________________________________

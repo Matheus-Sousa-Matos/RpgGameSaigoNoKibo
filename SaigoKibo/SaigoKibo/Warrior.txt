@@ -1,0 +1,19 @@
+______________________________________________________________________________________
+Warriors
+______________________________________________________________________________________
+- Biography: "I am just and unjust war. I am the defense of the troop. I am a lone wolf
+who fights for the rest. "
+
+- About: Have mastery of the art of war. They are great strategists. Force carriers and
+Abnormal resistance can last a long time in duels.
+
+Weapons: Spears, swords, axes, blades in general and etc.
+
+- Hit points: Start with 15 hit points at (+ Constitution mod) and gain 5 HP
+(+ Constitution mod) by level.
+
+- Skills: 2 + mod. Force.
+
+- Debuffs: Int. (- 1), Agi (- 1).
+
+______________________________________________________________________________________

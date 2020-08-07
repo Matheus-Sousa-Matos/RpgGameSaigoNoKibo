@@ -1,0 +1,17 @@
+______________________________________________________________________________________
+Priest
+______________________________________________________________________________________
+Biography: "The enlightening faith also punishes sinners."
+
+About: User of magic and faith. The combination of the two is devastating.
+
+Weapons: Staff and Divine Bell.
+
+- Start with 8 health (+ Constitution mod) and gain 1 HP (+ Constitution mod)
+by next level.
+
+- Skills: 1 + mod .Intelligence, Charisma.
+
+- Debuffs: For. (- 3).
+
+______________________________________________________________________________________

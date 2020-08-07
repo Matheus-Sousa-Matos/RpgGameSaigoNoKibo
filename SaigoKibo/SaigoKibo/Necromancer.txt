@@ -1,0 +1,20 @@
+______________________________________________________________________________________
+Necromancer
+______________________________________________________________________________________
+- Biography: "I am death and life. I am what everyone in life fears, and everyone in death
+they worship. "
+
+- About: Have domain of the dead and black magic. They are strong and use the skills to their
+favor. Like black wizards, they are linked to a great occult power of the world.
+of darkness.
+
+- Weapons: Blade of your choice. You can use either one.
+
+- Start with 5 health (+ Constitution mod) and gain 4 HP (+ Constitution mod)
+by next level.
+
+- Skills: 5 + mod. Intelligence.
+
+- Debuffs: For. (- 3), Agi (-1), Car (-1).
+
+______________________________________________________________________________________

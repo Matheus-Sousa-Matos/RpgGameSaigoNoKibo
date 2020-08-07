@@ -1,0 +1,17 @@
+______________________________________________________________________________________
+Guardian
+______________________________________________________________________________________
+- Biography: "The relentless defense the unreachable shield. Yes here is the maximum defense."
+
+- About: Prioritizing defense over all other things is your greatest asset.
+
+- Weapons: Clef, Sword, Shield.
+
+- Starts with 18 life (+ Constitution mod) and gains 4 HP (+ Constitution mod)
+by next level.
+
+- Skills: 5 + mod. Force.
+
+- Debuffs: Agi (- 4), Int (-1).
+
+______________________________________________________________________________________

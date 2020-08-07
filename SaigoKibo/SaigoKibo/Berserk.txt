@@ -1,0 +1,19 @@
+______________________________________________________________________________________
+Berserk
+______________________________________________________________________________________
+- Biography: "May the field become crimson. The fury that runs through my veins will
+consume all ".
+
+- About: Don't mind defense. Attacks brutally first, his fury and strength are
+gigantic.
+
+- Weapons: Double Axes, War Ax, Hammer.
+
+- Start with 12 health (+ Constitution mod) and gain 3 HP (+ Constitution mod)
+by next level.
+
+- Skills: 3 + mod .Strength
+
+- Debuffs: Int. (- 3).
+
+______________________________________________________________________________________

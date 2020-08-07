@@ -1,0 +1,271 @@
+-----------------------------------------------------------------------------------------------------------------
+Third Division Classes
+-----------------------------------------------------------------------------------------------------------------
+Warriors
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: "Sou a guerra justa e a injusta. Sou a defesa da tropa. Sou um lobo solitário
+que luta pelos demais.” 
+
+- Sobre: Têm domínio da arte da guerra. São ótimos estrategistas. Portadores de força e 
+resistência anormal conseguem durar muito tempo em duelos. 
+
+Armas: Lanças, espadas, machados, lâminas no geral e etc.
+
+- Pontos de vida: Começa com 15 pontos de vida a (+ mod de Constituição) e ganha 5 PV 
+(+ mod Contituição) por nível.
+
+- Perícias: 2 + mod. Força.
+
+- Desbufs: Int.(-1) , Agi.(-1).
+
+-----------------------------------------------------------------------------------------------------------------
+Archer
+-----------------------------------------------------------------------------------------------------------------
+Biografia: "Nada mais nada menos que uma precisão perfeita."
+
+- Sobre: Por passar um longo período treinando com arco e flecha, acabou adquirindo 
+habilidades consideráveis no combate com arco e flecha.
+
+- Começa com 12 pontos de vida (+mod. de Constituição) e ganha 3 PV (+mod. Constituição)
+por nível seguinte.
+
+- Armas: Arco e flecha, Bestas.
+
+- Perícias: 2 + mod. Agilidade.
+
+- Desbufs: For.(-2).
+
+-----------------------------------------------------------------------------------------------------------------
+Mage
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: “Eu sou a fonte de sabedoria e poder. Posso fazer tudo o que uma arma não 
+faz.”
+
+- Sobre: Os Magos têm o poder de utilizar os poderes da natureza em geral.
+Além de poderem causar pequenas Ilusões em seus adversários de menores leveis.
+O seu maior poder é conjurar a magia Branca, como fortes raios de luzes e 
+poderes de cura.
+
+- Armas: Cajados ou Bastões.
+
+- Começa com 8 pontos de vida (+mod. de Constituição) e ganha 2 PV (+mod. Constituição)
+por nível seguinte.
+
+- Perícias: 2 + mod. Inteligência.
+
+- Desbufs: For.(-1), Agi.(-1).
+
+-----------------------------------------------------------------------------------------------------------------
+Thief
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: “Sou a personificação da agilidade e do mistério.”
+
+- Sobre: Os Thiefs são habilidosos e podem se concentrar no desenvolvimento de uma
+enorme variedade de perícias. Mesmo não sendo equivalente aos membros de outras
+classes quando se trata de combate, um Thief é capaz de desferir golpes precisos e 
+infligir enorme dano aos seus oponentes ao realizar um ataque furtivo.
+Eles possuem um sexto sentido para evitar o perigo. 
+Conforme dominam a arte do sigilo, a evasão e ataques furtivos, os Thiefs experientes 
+desenvolvem poderes quase místicos.
+
+- Armas: Adagas.
+
+- Começa com 12 pontos de vida (+mod. de Constituição) e ganha 3 PV 
+(+mod. Constituição) por nível seguinte.
+
+- Perícias: 2 + mod. Agilidade
+
+- Desbufs: For.(-2).
+
+-----------------------------------------------------------------------------------------------------------------
+Farmer
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: "Posso parecer fraco mas a algo em meu ser que me da forças".
+
+- Sobre: Ele decidi seu destino e suas escolhas, bastante flexivel podendo se tornar o que
+desejar no futuro.
+
+-Armas: Qualquer uma.
+
+- Começa com 10 pontos de vida (+mod. de Constituição) e ganha 3 PV 
+(+mod. Constituição) por nível seguinte.
+
+- Perícias: 2 + mod . Agilidade,Força, Inteligência.
+
+- Desbufs: Car.(-4).
+
+-----------------------------------------------------------------------------------------------------------------
+ Second Division Classes 
+-----------------------------------------------------------------------------------------------------------------
+Paladin
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: “Sou o escudo implacável dos fracos, agraciado pela glória dos deuses.
+Eu não temo mal nenhum!”
+
+- Sobre: O paladino é um guerreiro divino, um cruzado ou protetor de sua fé.
+Ele também é um combatente treinado na arte militar.
+
+- Armas: Escudo, Espada, Clave.
+
+- Começa com 14 pontos de vida (+mod. de Constituição) e ganha 3 PV (+mod. Constituição)
+por nível seguinte.
+
+- Perícias: 1 + mod .Inteligência, Carisma.
+
+- Desbufs: Agi.(-3).
+
+-----------------------------------------------------------------------------------------------------------------
+Berserk
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: "Que o campo se torne carmesim. A fúria que corre em minhas veias irá 
+consumir todos".
+
+- Sobre: Não se importa com defesa. Ataca primeiro de forma brutal , sua fúria e força são 
+gigantescas.
+
+- Armas: Machados duplos, Machado de Guerra, Martelo.
+
+- Começa com 12 pontos de vida (+mod. de Constituição) e ganha 3 PV (+mod. Constituição)
+por nível seguinte.
+
+- Perícias: 3 + mod .Força
+
+- Desbufs: Int.(-3).
+
+-----------------------------------------------------------------------------------------------------------------
+Priest
+-----------------------------------------------------------------------------------------------------------------
+Biografia: "A fé que ilumina também puni os pecadores".
+
+Sobre: Usuário de magia e fé. A combinação das duas é devastadora.
+
+Armas: Cajado e Sino Divino.
+
+- Começa com 8 pontos de vida (+mod. de Constituição) e ganha 1 PV (+mod. Constituição)
+por nível seguinte.
+
+- Perícias: 1 + mod .Inteligencia , Carisma.
+
+- Desbufs: For.(-3).
+
+-----------------------------------------------------------------------------------------------------------------
+Druida
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: "A natureza também mostra suas garras".
+
+- Sobre: O druida é um sacerdote devotado a proteger a natureza.
+
+- Armas: Cajado longo.
+
+- Começa com 8 pontos de vida (+mod. de Constituição) e ganha 2 PV (+mod. Constituição)
+por nível seguinte.
+
+- Perícias: 1 + mod .Inteligencia , Agilidade.
+
+- Desbufs: For.(-2), Car(-1).
+
+-----------------------------------------------------------------------------------------------------------------
+Merchant
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: "Não a nada no mundo que não seja negociável".
+
+- Sobre: Figura carismatica que negocia melhor do que qualquer outra classe.
+
+- Armas: Espada curta e Escudo Leve.
+
+- Começa com 8 pontos de vida (+mod. de Constituição) e ganha 2 PV (+mod. Constituição)
+por nível seguinte.
+
+- Perícias: 3 + mod . Carisma , 1 + mod Inteligência.
+
+- Desbufs: For.(-2), Agi(-2).
+
+-----------------------------------------------------------------------------------------------------------------
+First Division Classes
+-----------------------------------------------------------------------------------------------------------------
+Necromancer
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: “Eu sou a morte e a vida. Sou o que todos em vida temem, e todos em morte 
+idolatram.”
+
+- Sobre: Têm domínio dos mortos e magia negra. São fortes e usam as habilidades a seu 
+favor. Assim como os magos negros, vinculam-se a um grande poder oculto do mundo
+das trevas.
+
+- Armas: Lâmina de sua escolha. Pode usar qualquer uma.
+
+- Começa com 5 pontos de vida (+mod. de Constituição) e ganha 4 PV (+mod. Constituição)
+por nível seguinte.
+
+- Perícias: 5 + mod . Inteligência.
+
+- Desbufs: For.(-3), Agi(-1) , Car(-1).
+
+-----------------------------------------------------------------------------------------------------------------
+Assasin
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: “Apesar de nunca ser visto, apreciei o fim de tantas formas de vida que
+cruzaram meu caminho".
+
+- Sobre: Um assassino silencioso e preciso, possui golpes certeiros e fatais.
+
+- Armas: Adagas.
+
+- Começa com 10 pontos de vida (+mod. de Constituição) e ganha 3 PV (+mod. Constituição)
+por nível seguinte.
+
+- Perícias: 5 + mod . Agilidade
+
+- Desbufs: For.(-2), Car(-2).
+
+-----------------------------------------------------------------------------------------------------------------
+Guardian
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: "A defesa implacável o escudo inalcançável. Sim aqui está a defesa máxima".
+
+- Sobre: Priorizar a defesa acima de todas as outras coisas é seu bem maior.
+
+-Armas: Clave, Espada, Escudo.
+
+- Começa com 18 pontos de vida (+mod. de Constituição) e ganha 4 PV (+mod. Constituição)
+por nível seguinte.
+
+- Perícias: 5 + mod . Força.
+
+- Desbufs: Agi.(-4), Int(-1).
+
+-----------------------------------------------------------------------------------------------------------------
+Dark Knight
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: "A noite e a guerra me moldaram , não mais luto na guerra. Eu sou a guerra".
+
+- Sobre: Um cavaleiro que possui ataque, agilidade e defesa em perfeita harmonia.
+
+- Armas: Espada e escudo.
+
+- Começa com 16 pontos de vida (+mod. de Constituição) e ganha 5 PV (+mod. Constituição)
+por nível seguinte.
+
+- Perícias: 3 + mod . Força. 2 + mod Agilidade.
+
+- Desbufs: Int.(-2), Car(-3).
+
+-----------------------------------------------------------------------------------------------------------------
+Dragon
+-----------------------------------------------------------------------------------------------------------------
+- Biografia: "Meus ancestrais contavam histórias de dragões. Aparentemente essas
+histórias são reais".
+
+- Sobre: Às vezes esse guerreiro abandona armas e usa sua arte draconiana para obter a 
+vitória.
+
+- Armas: Espada de mão dupla, Machado de guerra.
+
+- Começa com 15 pontos de vida (+mod. de Constituição) e ganha 5 PV (+mod. Constituição)
+por nível seguinte.
+
+- Perícias: 4 + mod . Força. 1 + mod Agilidade.
+
+- Desbufs: Int.(-1), Car(-4).
+
+-----------------------------------------------------------------------------------------------------------------

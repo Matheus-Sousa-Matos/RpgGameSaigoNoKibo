@@ -1,0 +1,19 @@
+______________________________________________________________________________________
+Dragon
+______________________________________________________________________________________
+- Biography: "My ancestors told stories of dragons. Apparently these
+stories are real ".
+
+- About: Sometimes this warrior gives up weapons and uses his draconian art to obtain the
+victory.
+
+- Weapons: Two-way sword, War ax.
+
+- Start with 15 health (+ Constitution mod) and gain 5 HP (+ Constitution mod)
+by next level.
+
+- Skills: 4 + mod. Strength. 1 + mod Agility.
+
+- Debuffs: Int. (- 1), Car (-4).
+
+______________________________________________________________________________________

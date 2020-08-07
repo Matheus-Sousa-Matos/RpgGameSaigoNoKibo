@@ -1,0 +1,19 @@
+______________________________________________________________________________________
+Paladin
+______________________________________________________________________________________
+- Biography: "I am the relentless shield of the weak, bestowed by the glory of the gods.
+I fear no evil! "
+
+- About: The paladin is a divine warrior, a crusader or protector of his faith.
+He is also a combatant trained in the military art.
+
+- Weapons: Shield, Sword, Clef, Mace.
+
+- Start with 14 health (+ Constitution mod) and gain 3 HP (+ Constitution mod)
+by next level.
+
+- Skills: 1 + mod .Intelligence, Charisma.
+
+- Debuffs: Now (- 3).
+
+______________________________________________________________________________________

@@ -1,0 +1,17 @@
+______________________________________________________________________________________
+Dark Knight
+______________________________________________________________________________________
+- Biography: "Night and war have shaped me, I no longer fight in war. I am war."
+
+- About: A knight who has attack, agility and defense in perfect harmony.
+
+- Weapons: Sword and shield.
+
+- Start with 16 life (+ Constitution mod) and gain 5 HP (+ Constitution mod)
+by next level.
+
+- Skills: 3 + mod. Strength 2 + mod Agility.
+
+- Debuffs: Int. (- 2), Car (-3).
+
+______________________________________________________________________________________

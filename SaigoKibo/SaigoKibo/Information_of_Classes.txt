@@ -1,0 +1,271 @@
+-------------------------------------------------- -------------------------------------------------- -------------
+Third Division Classes
+-------------------------------------------------- -------------------------------------------------- -------------
+Warriors
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: "I am just and unjust war. I am the defense of the troop. I am a lone wolf
+who fights for the rest. ”
+
+- About: Have mastery of the art of war. They are great strategists. Force carriers and
+Abnormal resistance can last a long time in duels.
+
+Weapons: Spears, swords, axes, blades in general and etc.
+
+- Hit points: Start with 15 hit points at (+ Constitution mod) and gain 5 HP
+(+ mod Contição) by level.
+
+- Skills: 2 + mod. Force.
+
+- Debuffs: Int. (- 1), Agi (- 1).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Archer
+-------------------------------------------------- -------------------------------------------------- -------------
+Biography: "Nothing short of perfect precision."
+
+- About: Having spent a long time training with bow and arrow, he eventually acquired
+considerable skills in archery combat.
+
+- Start with 12 health (+ Constitution mod) and gain 3 HP (+ Constitution mod)
+by next level.
+
+- Weapons: Bow and arrow, Beasts.
+
+- Skills: 2 + mod. Agility.
+
+- Debuffs: For. (- 2).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Mage
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: “I am the source of wisdom and power. I can do anything a gun can't
+does."
+
+- About: Magicians have the power to utilize the powers of nature in general.
+They can also cause minor illusions to their minor opponents.
+Its greatest power is to cast White magic as strong beams of light and
+healing powers.
+
+- Weapons: Staffs or Rods.
+
+- Start with 8 hit points (+ Constitution mod) and gain 2 HP (+ Constitution mod)
+by next level.
+
+- Skills: 2 + mod. Intelligence.
+
+- Debuffs: For. (- 1), Agi. (- 1).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Thief
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: “I am the embodiment of agility and mystery.”
+
+- About: Thiefs are skilled and can focus on developing a
+huge variety of skills. Although not equivalent to members of other
+When it comes to combat, a Thief is able to deliver precise blows and
+inflict huge damage on your opponents by performing a sneak attack.
+They have a sixth sense to avoid danger.
+As they master the art of secrecy, evasion and sneak attacks, experienced Thiefs
+develop almost mystical powers.
+
+- Weapons: Daggers.
+
+- Start with 12 health (+ Constitution mod) and gain 3 HP
+(+ mod. Constitution) by next level.
+
+- Skills: 2 + mod. Agility
+
+- Debuffs: For. (- 2).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Farmer
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: "I may seem weak but something in my being that gives me strength."
+
+- About: He has decided his fate and his choices, quite flexible and can become what
+wish in the future.
+
+- Weapons: Anything.
+
+- Start with 10 health (+ Constitution mod) and gain 3 HP
+(+ mod. Constitution) by next level.
+
+- Skills: 2 + mod. Agility, Strength, Intelligence.
+
+- Debuffs: Car. (- 4).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+ Second Division Classes
+-------------------------------------------------- -------------------------------------------------- -------------
+Paladin
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: “I am the relentless shield of the weak, bestowed by the glory of the gods.
+I fear no evil! ”
+
+- About: The paladin is a divine warrior, a crusader or protector of his faith.
+He is also a combatant trained in the military art.
+
+- Weapons: Shield, Sword, Clef, Mace.
+
+- Start with 14 health (+ Constitution mod) and gain 3 HP (+ Constitution mod)
+by next level.
+
+- Skills: 1 + mod .Intelligence, Charisma.
+
+- Debuffs: Now (- 3).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Berserk
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: "May the field become crimson. The fury that runs through my veins will
+consume all ".
+
+- About: Don't mind defense. Attacks brutally first, his fury and strength are
+gigantic.
+
+- Weapons: Double Axes, War Ax, Hammer.
+
+- Start with 12 health (+ Constitution mod) and gain 3 HP (+ Constitution mod)
+by next level.
+
+- Skills: 3 + mod .Strength
+
+- Debuffs: Int. (- 3).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Priest
+-------------------------------------------------- -------------------------------------------------- -------------
+Biography: "The enlightening faith also punishes sinners."
+
+About: User of magic and faith. The combination of the two is devastating.
+
+Weapons: Staff and Divine Bell.
+
+- Start with 8 health (+ Constitution mod) and gain 1 HP (+ Constitution mod)
+by next level.
+
+- Skills: 1 + mod .Intelligence, Charisma.
+
+- Debuffs: For. (- 3).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Druid
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: "Nature also shows its claws".
+
+- About: The druid is a priest devoted to protecting nature.
+
+- Weapons: Long Staff.
+
+- Start with 8 hit points (+ Constitution mod) and gain 2 HP (+ Constitution mod)
+by next level.
+
+- Skills: 1 + mod .Intelligence, Agility.
+
+- Debuffs: For. (- 2), Car (-1).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Merchant
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: "Nothing to the world that is not negotiable".
+
+- About: Charismatic figure that negotiates better than any other class.
+
+- Weapons: Short Sword and Light Shield.
+
+- Start with 8 hit points (+ Constitution mod) and gain 2 HP (+ Constitution mod)
+by next level.
+
+- Skills: 3 + mod. Charisma, 1 + mod Intelligence.
+
+- Debuffs: For. (- 2), Agi (-2).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+First Division Classes
+-------------------------------------------------- -------------------------------------------------- -------------
+Necromancer
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: “I am death and life. I am what everyone in life fears, and everyone in death
+they worship. ”
+
+- About: Have domain of the dead and black magic. They are strong and use the skills to their
+favor. Like black wizards, they are linked to a great occult power of the world.
+of darkness.
+
+- Weapons: Blade of your choice. You can use either one.
+
+- Start with 5 health (+ Constitution mod) and gain 4 HP (+ Constitution mod)
+by next level.
+
+- Skills: 5 + mod. Intelligence.
+
+- Debuffs: For. (- 3), Agi (-1), Car (-1).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Assasin
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: “Although never seen, I enjoyed the end of so many life forms that
+crossed my path ".
+
+- About: A silent and accurate killer, has accurate and fatal blows.
+
+- Weapons: Daggers.
+
+- Start with 10 hit points (+ Constitution mod) and gain 3 HP (+ Constitution mod)
+by next level.
+
+- Skills: 5 + mod. Agility
+
+- Debuffs: For. (- 2), Car (-2).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Guardian
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: "The relentless defense the unreachable shield. Yes here is the maximum defense."
+
+- About: Prioritizing defense over all other things is your greatest asset.
+
+- Weapons: Clef, Sword, Shield.
+
+- Starts with 18 life (+ Constitution mod) and gains 4 HP (+ Constitution mod)
+by next level.
+
+- Skills: 5 + mod. Force.
+
+- Debuffs: Agi (- 4), Int (-1).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Dark knight
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: "Night and war have shaped me, I no longer fight in war. I am war."
+
+- About: A knight who has attack, agility and defense in perfect harmony.
+
+- Weapons: Sword and shield.
+
+- Start with 16 life (+ Constitution mod) and gain 5 HP (+ Constitution mod)
+by next level.
+
+- Skills: 3 + mod. Strength 2 + mod Agility.
+
+- Debuffs: Int. (- 2), Car (-3).
+
+-------------------------------------------------- -------------------------------------------------- -------------
+Dragon
+-------------------------------------------------- -------------------------------------------------- -------------
+- Biography: "My ancestors told stories of dragons. Apparently these
+stories are real ".
+
+- About: Sometimes this warrior gives up weapons and uses his draconian art to obtain the
+victory.
+
+- Weapons: Two-way sword, War ax.
+
+- Start with 15 health (+ Constitution mod) and gain 5 HP (+ Constitution mod)
+by next level.
+
+- Skills: 4 + mod. Strength. 1 + mod Agility.
+
+- Debuffs: Int. (- 1), Car (-4).
+
+-------------------------------------------------- -------------------------------------------------- -------------
